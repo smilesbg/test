@@ -3,3 +3,6 @@ jdbc:
   password: bushiba
   url: http://
   driver: class.driver
+
+hello:
+  world: this is a file

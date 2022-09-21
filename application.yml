@@ -1,0 +1,5 @@
+jdbc:
+  username: adbc
+  password: bushiba
+  url: http://
+  driver: class.driver
